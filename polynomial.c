@@ -5,4 +5,4 @@ struct poly{
     coeff1[10];
     exp1[10];
 }polys;
-//----aarindaa------
+//----aarinudaa------
